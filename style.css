@@ -1,0 +1,78 @@
+* {
+    background-color: rgb(207, 203, 203);
+}
+
+h1 {
+    background-color: green;
+    color: #ffffff;
+    text-align: center;
+}
+h2 {
+    color: green;
+}
+.mainitem {
+    background-color: rgb(189, 240, 240);
+    width: 60%;
+    display: inline-flex;
+    justify-content: space-around;
+    height: 18vh;
+    padding-top: 10px;
+    color: white;
+    text-align: center;
+    font-size: medium;
+}
+.Item1 {
+    height: 6vh; 
+    width: 140px; 
+    background-color:rgb(2, 69, 59);
+}  
+.Item2 {
+    height: 6vh; 
+    width: 140px; 
+    background-color:rgb(2, 69, 59);
+}
+.Item3 {
+    height: 6vh; 
+    width: 140px; 
+    background-color:rgb(2, 69, 59);
+} 
+.Item4 {
+    height: 6vh; 
+    width: 300px; 
+    background-color:rgb(2, 69, 59);
+    color: white;
+    text-align: center;
+    position: relative;
+    top: -50px;
+    left: 20%;
+}
+.parent {
+    background-color: rgb(241, 186, 166);
+    width: 50%;
+padding: 100px;
+}
+.bigchild {
+    background-color: rgb(223, 95, 49);
+    padding: 15px;
+    margin-left: -75px;
+    margin-top: -80px;
+    width: 753px;
+}
+.littlechild {
+    background-color: orangered;
+    color: white;
+    width: 200px;
+    padding: 10px;
+    margin-top:px;
+} 
+.fixed {
+    background-color: red;
+    color: white;
+    padding: 10px;
+    width: 150px;
+    position: fixed;
+    right: 420px;
+    top: 510px;
+    text-align: center;
+     
+}
